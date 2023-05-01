@@ -1,7 +1,7 @@
 #pragma once
 #include <cstddef>
 
-// 2023-05-01 01:41:52.633305400 UTC
+// 2023-05-01 06:24:59.018465500 UTC
 
 namespace hazedumper {
 namespace netvars {
@@ -146,7 +146,7 @@ constexpr ::std::ptrdiff_t dwYawPtr = 0xDEE910;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xDF4380;
 constexpr ::std::ptrdiff_t dwbSendPackets = 0xDD2B2;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA62C0;
-constexpr ::std::ptrdiff_t find_hud_element = 0x23AA0090;
+constexpr ::std::ptrdiff_t find_hud_element = 0x2C5F0090;
 constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3D96FA;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3FA9C;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3E6F10;
